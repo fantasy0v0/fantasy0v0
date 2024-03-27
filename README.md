@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fantasy0v0&hide=html,css,scss&layout=compact" alt="Top Langs" height="175" /> <img src="https://github-readme-stats.vercel.app/api?username=fantasy0v0&show_icons=true&count_private=true&theme=dracula" alt="Leibniz.Hu's github stats" height="175" />
+
 <!--
 **fantasy0v0/fantasy0v0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
